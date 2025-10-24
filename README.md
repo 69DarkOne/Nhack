@@ -2,8 +2,6 @@
 <h1 align="center">Welcome to Nhack</h1>
 
 - Meteor client with a bunch of other modules
-- Programming languages used:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
 
 
 - Developers' Discords:
